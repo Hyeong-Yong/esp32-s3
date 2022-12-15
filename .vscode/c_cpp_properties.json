@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Espressif/frameworks/esp-idf-v5.0/components/**",
+                "C:/Espressif/frameworks/esp-idf-v5.0/components/esp_common/include",
+                "C:/Espressif/frameworks/esp-idf-v5.0/components/freertos/FreeRTOS-Kernel-SMP/include",
+                "C:/Espressif/frameworks/esp-idf-v5.0/components/soc/esp32/include",
+                "C:/Espressif/frameworks/esp-idf-v5.0/components/esp_timer/include",
+                "${workspaceFolder}/main/hw",
+                "${workspaceFolder}/main/common",
+                "${workspaceFolder}/main/bsp"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe",
+            "cStandard": "c99",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-arm64"
+        }
+    ],
+    "version": 4
+}
