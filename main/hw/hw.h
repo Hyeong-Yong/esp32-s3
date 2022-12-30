@@ -8,9 +8,12 @@
 #include "uart.h"
 #include "cli.h"
 #include "gpio.h"
+<<<<<<< HEAD
 #include "cdc.h"
 
 
+=======
+>>>>>>> 3b4ca14042be31702f1cc9a505a03565deafddf0
 
 void hwInit(void);
 

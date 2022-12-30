@@ -16,7 +16,11 @@
 #define      HW_UART_MAX_CH     2
 
 
+<<<<<<< HEAD
 #define _USE_HW_CDC
+=======
+//#define _USE_HW_CDC
+>>>>>>> 3b4ca14042be31702f1cc9a505a03565deafddf0
 
 #define _USE_HW_CLI
 #define      HW_CLI_CMD_LIST_MAX    32

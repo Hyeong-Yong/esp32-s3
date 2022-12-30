@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "terminal.integrated.profiles.windows" : {
          "PowerShell" :{
@@ -21,6 +22,8 @@
          }
 
     },
+=======
+>>>>>>> 3b4ca14042be31702f1cc9a505a03565deafddf0
     "files.associations": {
         "gpio.h": "c",
         "queue.h": "c",
