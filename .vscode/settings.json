@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "terminal.integrated.profiles.windows" : {
          "PowerShell" :{
@@ -22,8 +21,6 @@
          }
 
     },
-=======
->>>>>>> 3b4ca14042be31702f1cc9a505a03565deafddf0
     "files.associations": {
         "gpio.h": "c",
         "queue.h": "c",
@@ -49,7 +46,8 @@
         "freertos.h": "c",
         "led.h": "c",
         "esp_timer.h": "c",
-        "cli.h": "c"
+        "cli.h": "c",
+        "cdc.h": "c"
     },
     "C_Cpp.dimInactiveRegions": true,
 }

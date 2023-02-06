@@ -10,13 +10,8 @@
 
 bool gpioInit(void);
 bool gpioPinMode(uint8_t ch, uint8_t mode);
-<<<<<<< HEAD
 void gpioPinWrite(uint8_t ch, uint8_t value);
 uint8_t gpioPinRead(uint8_t ch);
-=======
-void gpioPinWrite(uint8_t ch, bool value);
-bool gpioPinRead(uint8_t ch);
->>>>>>> 3b4ca14042be31702f1cc9a505a03565deafddf0
 void gpioPinToggle(uint8_t ch);
 
 #endif

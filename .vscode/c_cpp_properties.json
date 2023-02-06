@@ -4,10 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-<<<<<<< HEAD
                 "C:/Espressif/frameworks/esp-idf-v5.0/**",
-=======
->>>>>>> 3b4ca14042be31702f1cc9a505a03565deafddf0
                 "C:/Espressif/frameworks/esp-idf-v5.0/components/**",
                 "C:/Espressif/frameworks/esp-idf-v5.0/components/esp_common/include",
                 "C:/Espressif/frameworks/esp-idf-v5.0/components/freertos/FreeRTOS-Kernel-SMP/include",
@@ -26,17 +23,9 @@
             "compilerPath": "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe",
             "cStandard": "c99",
             "cppStandard": "c++17",
-<<<<<<< HEAD
             "intelliSenseMode": "windows-gcc-x64"
         }
     ],
     "version": 4
 }
 
-=======
-            "intelliSenseMode": "windows-gcc-arm64"
-        }
-    ],
-    "version": 4
-}
->>>>>>> 3b4ca14042be31702f1cc9a505a03565deafddf0
